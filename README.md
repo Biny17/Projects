@@ -16,7 +16,8 @@ Outils pour le site internet: Dash, Html, Css, Heroku
 ### Utilisant Tensorflow Agent et Gym
 L'agent utilise l'algorithme "Proximal Policy Optimization" sur l'environnement BattleZone, un jeu Atari.  
 L'IA devra maneuvrer un tank et éliminer ses ennemies pour achever le meilleur score possible.
-<br/>
+
+
 Les bases du Renforcement Learning:  
 ![](RL_tensorflow.PNG)
 
