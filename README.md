@@ -15,6 +15,8 @@ Outils pour le site internet: Dash, Html, Css, Heroku
 ### Using Tensorflow Agent and Gym
 Using Proximal Policy Optimization algorithm on the Atari game Battlezone, the AI will try to maneuver a tank and shoot it's ennemies to reach the highest score.
 Basic of Reinforcement learning:  
-![](RL_tensorflow.png)
-BattleZone:  
-![](BattleZone.png)
+
+![](RL_tensorflow.PNG)
+BattleZone:   
+
+![](BattleZone.PNG)
