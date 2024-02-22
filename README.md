@@ -18,8 +18,12 @@ L'agent utilise l'algorithme "Proximal Policy Optimization" sur l'environnement 
 L'IA devra maneuvrer un tank et éliminer ses ennemies pour achever le meilleur score possible.
 
 
-Les bases du Renforcement Learning:  
+Les bases du Renforcement Learning:
+
+
 ![](RL_tensorflow.PNG)
 
 BattleZone:   
+
+
 ![](BattleZone.PNG)
