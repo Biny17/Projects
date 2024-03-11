@@ -21,7 +21,7 @@ Outils pour le site internet: Dash, Html, Css, Heroku
 
 
 
-## 🕹️ Reinforcement Learning AI plays BattleZone
+## 🕹️ Une IA d'apprentissage par renforcement
 
 
 ### Google colab ici : [https://colab.research.google.com/drive/1EiBAV5swA9ykd-vKdSepUD9MZgUY4HKN?usp=sharing](https://colab.research.google.com/drive/1EiBAV5swA9ykd-vKdSepUD9MZgUY4HKN?usp=sharing)
