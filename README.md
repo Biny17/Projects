@@ -35,7 +35,3 @@ Renforcement Learning avec tf_agents:
 
 ![](RL_tensorflow.PNG)
 
-BattleZone:   
-
-
-![](BattleZone.PNG)
