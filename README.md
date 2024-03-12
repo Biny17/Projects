@@ -2,7 +2,7 @@
 
 
 ## 📈 Analyse des données AirBNB Paris [https://github.com/Biny17/PortfolioDash](https://github.com/Biny17/PortfolioDash)
-[http://www.tristangallet.fr/](http://www.tristangallet.fr/)
+[http://www.tristangallet.fr/](http://www.tristangallet.fr/) (veuillez attendre et actualiser)
 
 Outils de Data Science utilisés: Plotly, Numpy, Pandas, Scipy
 Outils pour le site internet: Dash, Html, Css, Heroku
