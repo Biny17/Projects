@@ -5,7 +5,7 @@
 [http://www.tristangallet.fr/](http://www.tristangallet.fr/) (veuillez attendre et actualiser)
 
 Outils de Data Science utilisés: Plotly, Numpy, Pandas, Scipy
-Outils pour le site internet: Dash, Html, Css, Heroku
+Outils pour le site internet: Dash, Html, CSS, Heroku
 
 
 ## 🕹️ Une IA d'apprentissage par renforcement
